@@ -41,11 +41,11 @@ One sentence introduction.
 
 
 
-# <a name="Projects"></a>Projects
+## <a name="Projects"></a>Projects
 
 One sentence introduction.
 
-## <a name="Front-end"></a>Front-end
+### <a name="Front-end"></a>Front-end
 
 - Portfolio Website V3
 - Portfolio Website V2
@@ -65,31 +65,31 @@ One sentence introduction.
 - FEND-Portfolio
 - FEND-Animal Trading Cards
 
-## <a name="Back-end"></a>Back-end
+### <a name="Back-end"></a>Back-end
 
-## <a name="Mobile-App"></a>Mobile APP
+### <a name="Mobile-App"></a>Mobile APP
 
 - Flash Cards
 - Android SPS
 
-## <a name="Neural-Network"></a>Deep Learning
-## <a name="Micro-Controller"></a>Micro Controller
-## <a name="Archived"></a>Archived
+### <a name="Neural-Network"></a>Deep Learning
+### <a name="Micro-Controller"></a>Micro Controller
+### <a name="Archived"></a>Archived
 
 - BlindZer
 - My Icons
 
-# <a name="Certificates"></a>Certificates
+## <a name="Certificates"></a>Certificates
 
 One sentence introduction.
 
-## <a name="nd001"></a>Front End Web Developer
+### <a name="nd001"></a>Front End Web Developer
 6 month
 ![certificate](assets/nd001.jpg)
-## <a name="nd019"></a>React
+### <a name="nd019"></a>React
 4 month
 ![certificate](assets/nd019.jpg)
-## <a name="nd101"></a>Deep Learning Fundation
+### <a name="nd101"></a>Deep Learning Fundation
 4 month
 ![certificate](assets/nd101.jpg)
 
