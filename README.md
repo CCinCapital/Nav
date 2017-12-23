@@ -6,21 +6,30 @@ One sentence introduction.
 - [Projects](#Projects)
   - [Front-end](#Front-end)
     - Portfolio Website V3
+    - Portfolio Website V2
     - Readable
     - My Fitness
     - My Reads
     - Neighborhood Map
     - Unit Testing
+    - Arcade Game Clone : Cross Road
+    - Arcade Game Clone : Flip Flop Match
+    - Pixel Art Maker
   - [Back-end](#Back-end)
   - [Mobile App](#Mobile-App)
     - Flash Cards
     - Android SPS
   - [Neural Network](#Neural-Network)
+  - [Micro Controller](#Micro-Controller)
+    - BlindZer
   - Archived
      <details>
      <summary>Click To Show</summary>
   
      - Portfolio Website V1
+     - FEND-Portfolio
+     - FEND-Animal Trading Cards
+     - My Icons
      </details>
 
   
