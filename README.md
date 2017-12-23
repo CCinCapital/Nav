@@ -1,8 +1,8 @@
 # Project Index
-
-Click on any category jumps to its section.
+A index of all my open source projects.
 
 ## Table of Contents
+_Click on any category jumps to its section._
 - #### [Projects](#Projects)
   - [Front-end](#Front-end)
     - Portfolio Website V3
