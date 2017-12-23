@@ -16,7 +16,10 @@ One sentence introduction.
     - Flash Cards
     - Android SPS
   - [Neural Network](#Neural-Network)
-  - [Archived](#Archived)
+    <details>
+    <summary>Archived</summary>
+    This is how you dropdown.
+    </details>
 - [Certificates](#Certificates)
   - [Front-end Web Developer Nanodegree](#nd001)
   - [React Nanodegree](#nd019)
