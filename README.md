@@ -21,8 +21,8 @@ One sentence introduction.
     - Android SPS
   - [Neural Network](#Neural-Network)
   - [Micro Controller](#Micro-Controller)
-    - BlindZer
-  - Archived
+    - [BlindZer](#BlindZer)
+  - [Archived](#Archived)
      <details>
      <summary>Click To Show</summary>
   
@@ -72,8 +72,8 @@ One sentence introduction.
 - Flash Cards
 - Android SPS
 
-## <a name="Neural-Network"></a>Deep Learning Related
-
+## <a name="Neural-Network"></a>Deep Learning
+## <a name="Micro-Controller"></a>Micro Controller
 ## <a name="Archived"></a>Archived
 
 - BlindZer
