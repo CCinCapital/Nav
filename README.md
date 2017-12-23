@@ -2,8 +2,8 @@
 
 Click on any category jumps to its section.
 
-### <a name="Table-of-Contents"></a>Table of Contents
-- [Projects](#Projects)
+## Table of Contents
+- #### [Projects](#Projects)
   - [Front-end](#Front-end)
     - Portfolio Website V3
     - Portfolio Website V2
@@ -33,7 +33,7 @@ Click on any category jumps to its section.
      </details>
 
   
-- [Certificates](#Certificates)
+- #### [Certificates](#Certificates)
   - [Front-end Web Developer Nanodegree](#nd001)
   - [React Nanodegree](#nd019)
   - [Deep Learning Fundation Nanodegree](#nd101)
