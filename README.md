@@ -1,6 +1,6 @@
-# Nav
+# Project Index
 
-One sentence introduction.
+Click on any category jumps to its section.
 
 ### <a name="Table-of-Contents"></a>Table of Contents
 - [Projects](#Projects)
