@@ -4,15 +4,23 @@ One sentence introduction.
 
 ### Table of Contents
 - [Projects](#Projects)
- - [Front-end](#Front-end)
- - [Back-end](#Back-end)
- - [Mobile App](#Mobile-App)
- - [Neural Network](#Neural-Network)
- - [Other](#Other)
+  - [Front-end](#Front-end)
+    - Portfolio Website V3
+    - Readable
+    - My Fitness
+    - My Reads
+    - Neighborhood Map
+    - Unit Testing
+  - [Back-end](#Back-end)
+  - [Mobile App](#Mobile-App)
+    - Flash Cards
+    - Android SPS
+  - [Neural Network](#Neural-Network)
+  - [Archived](#Archived)
 - [Certificates](#Certificates)
- - [Front-end Web Developer Nanodegree](#nd001)
- - [React Nanodegree](#nd019)
- - [Deep Learning Fundation Nanodegree](#nd101)  
+  - [Front-end Web Developer Nanodegree](#nd001)
+  - [React Nanodegree](#nd019)
+  - [Deep Learning Fundation Nanodegree](#nd101)  
 
 
 
@@ -49,7 +57,7 @@ One sentence introduction.
 
 ## <a name="Neural-Network"></a>Deep Learning Related
 
-## <a name="Other"></a>Other
+## <a name="Archived"></a>Archived
 
 - BlindZer
 - My Icons
