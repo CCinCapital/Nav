@@ -9,7 +9,7 @@ _Click on any category jumps to its section._
     - Portfolio Website V2
     - Readable
     - My Fitness
-    - My Reads
+    - [My Reads](https://github.com/CCinCapital/React-MyBooks)
     - Neighborhood Map
     - Unit Testing
     - [Arcade Game Clone : Cross Road](https://github.com/CCinCapital/FEND-arcade-game)
