@@ -25,11 +25,11 @@ _Click on any category jumps to its section._
      <details>
      <summary>Click To Show</summary>
   
-     - Pixel Art Maker
-     - Portfolio Website V1
-     - FEND-Portfolio
-     - FEND-Animal Trading Cards
-     - My Icons
+     - [Pixel Art Maker](https://github.com/CCinCapital/FEND-pixel-art-maker)
+     - [Portfolio Website V1](https://github.com/CCinCapital/CCinCapital.github.io)
+     - [FEND-Portfolio](https://github.com/CCinCapital/FEND-portfolio)
+     - [FEND-Animal Trading Cards](https://github.com/CCinCapital/FEND-animal-trading-cards)
+     - [My Icons](https://github.com/CCinCapital/myICONs)
      </details>
 
 ![React.js](https://img.shields.io/badge/-React.js-blue.svg)
