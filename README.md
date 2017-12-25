@@ -17,22 +17,23 @@ A index of all my open source projects._Click on any project nagivates to its re
   - [Flash Cards](https://github.com/CCinCapital/ReactNative-Flashcards/blob/master/README.md)
   - [Android SPS](https://github.com/CCinCapital/Android-SPS)
  
-<details open>
+<details>
 <summary>Neural Network</summary>
   
+- [Generate Faces](https://ccincapital.github.io/DLND-Generate-Face/)  
 - [Language Translation](https://ccincapital.github.io/DLND-Language-Translation/)
 - [Generate TV Scripts](https://ccincapital.github.io/DLND-Generate-TV-Scripts/)
 - [Image Classification](https://ccincapital.github.io/DLND-Image-Classification/)
 - [Bike Sharing Data Analysis & Prediction](https://ccincapital.github.io/DLND-Bike-Sharing-Data-Analysis/)
 </details>
-<details open>
+<details>
 <summary>Micro Controller</summary>
 
 - [BlindZer](https://github.com/CCinCapital/BlindZer)
 - [PrintHead Control](https://github.com/CCinCapital/XAAR128_PrintHead_Contol)
 - [Tug Of War](https://github.com/CCinCapital/FPGA-TugOfWar)
 </details>
-<details open>
+<details>
 <summary>Archived</summary>
 
 - [Tic Tac Toe](https://github.com/CCinCapital/Tic-Tac-Toe)
