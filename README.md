@@ -3,8 +3,8 @@ A index of all my open source projects.
 
 ## Table of Contents
 _Click on any category jumps to its section._
-- #### [Projects](#Projects)
-  - [Front-end](#Front-end)
+- #### Projects
+  - Front-end
     - [Portfolio Website V3](https://github.com/CCinCapital/PortfolioWebsiteV3)
     - [Portfolio Website V2](https://github.com/CCinCapital/www.canchen.rocks)
     - [Readable](https://github.com/CCinCapital/React-Readable)
@@ -13,18 +13,21 @@ _Click on any category jumps to its section._
     - [Unit Testing](https://github.com/CCinCapital/FEND-Unit-Test)
     - [Arcade Game Clone : Cross Road](https://github.com/CCinCapital/FEND-arcade-game)
     - [Arcade Game Clone : Flip Flop Match](https://github.com/CCinCapital/FEND-memory-game)
-  - [Back-end](#Back-end)
+  - Back-end
     Coming Soon.
-  - [Mobile App](#Mobile-App)
+  - Mobile App
     - [Flash Cards](https://github.com/CCinCapital/ReactNative-Flashcards/blob/master/README.md)
     - [Android SPS](https://github.com/CCinCapital/Android-SPS)
-  - [Neural Network](#Neural-Network)
-  - [Micro Controller](#Micro-Controller)
-    - [BlindZer](#BlindZer)
-  - [Archived](#Archived)
+  - Neural Network
+  - Micro Controller
+    - [BlindZer](https://github.com/CCinCapital/BlindZer)
+    - [PrintHead Control](https://github.com/CCinCapital/XAAR128_PrintHead_Contol)
+    - [Tug Of War](https://github.com/CCinCapital/FPGA-TugOfWar)
+  - Archived
      <details>
      <summary>Click To Show</summary>
-  
+    
+     - [Tic Tac Toe](https://github.com/CCinCapital/Tic-Tac-Toe)
      - [Pixel Art Maker](https://github.com/CCinCapital/FEND-pixel-art-maker)
      - [Portfolio Website V1](https://github.com/CCinCapital/CCinCapital.github.io)
      - [FEND-Portfolio](https://github.com/CCinCapital/FEND-portfolio)
