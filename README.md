@@ -17,6 +17,7 @@ A index of all my open source projects._Click on any project nagivates to its re
   - [Flash Cards](https://github.com/CCinCapital/ReactNative-Flashcards/blob/master/README.md)
   - [Android SPS](https://github.com/CCinCapital/Android-SPS) 
 - Neural Network
+  - [Bike Sharing Data Analysis & Prediction](https://ccincapital.github.io/DLND-Bike/)
 - Micro Controller
   - [BlindZer](https://github.com/CCinCapital/BlindZer)
   - [PrintHead Control](https://github.com/CCinCapital/XAAR128_PrintHead_Contol)
