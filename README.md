@@ -16,7 +16,7 @@ _Click on any category jumps to its section._
     - Pixel Art Maker
   - [Back-end](#Back-end)
   - [Mobile App](#Mobile-App)
-    - Flash Cards
+    - [Flash Cards](https://github.com/CCinCapital/ReactNative-Flashcards/blob/master/README.md)
     - Android SPS
   - [Neural Network](#Neural-Network)
   - [Micro Controller](#Micro-Controller)
