@@ -43,9 +43,3 @@ A index of all my open source projects._Click on any project nagivates to its re
 - [FEND-Animal Trading Cards](https://github.com/CCinCapital/FEND-animal-trading-cards)
 - [My Icons](https://github.com/CCinCapital/myICONs)
 </details>
-
-![React.js](https://img.shields.io/badge/-React.js-blue.svg)
-![Sass](https://img.shields.io/badge/-Sass-ca538a.svg)
-![Redux.js](https://img.shields.io/badge/-Redux.js-7947b8.svg)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffda52.svg)
-![Jasmine](https://img.shields.io/badge/-Jasmine-a9719e.svg)
