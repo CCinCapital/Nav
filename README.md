@@ -12,7 +12,7 @@ A index of all my open source projects._Click on any project nagivates to its re
   - [Arcade Game Clone : Cross Road](https://github.com/CCinCapital/FEND-arcade-game)
   - [Arcade Game Clone : Flip Flop Match](https://github.com/CCinCapital/FEND-memory-game)
 - Back-end
-  Coming Soon.
+  - _Coming Soon._
 - Mobile App
   - [Flash Cards](https://github.com/CCinCapital/ReactNative-Flashcards/blob/master/README.md)
   - [Android SPS](https://github.com/CCinCapital/Android-SPS)
