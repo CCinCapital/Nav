@@ -6,7 +6,7 @@ _Click on any category jumps to its section._
 - #### [Projects](#Projects)
   - [Front-end](#Front-end)
     - [Portfolio Website V3](https://github.com/CCinCapital/PortfolioWebsiteV3)
-    - Portfolio Website V2
+    - [Portfolio Website V2](https://github.com/CCinCapital/www.canchen.rocks)
     - [Readable](https://github.com/CCinCapital/React-Readable)
     - [My Reads](https://github.com/CCinCapital/React-MyBooks)
     - [Neighborhood Map](https://github.com/CCinCapital/FEND-Neighborhood-Map)
