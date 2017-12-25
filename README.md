@@ -13,8 +13,8 @@ _Click on any category jumps to its section._
     - [Unit Testing](https://github.com/CCinCapital/FEND-Unit-Test)
     - [Arcade Game Clone : Cross Road](https://github.com/CCinCapital/FEND-arcade-game)
     - [Arcade Game Clone : Flip Flop Match](https://github.com/CCinCapital/FEND-memory-game)
-    - Pixel Art Maker
   - [Back-end](#Back-end)
+    Coming Soon.
   - [Mobile App](#Mobile-App)
     - [Flash Cards](https://github.com/CCinCapital/ReactNative-Flashcards/blob/master/README.md)
     - [Android SPS](https://github.com/CCinCapital/Android-SPS)
@@ -25,6 +25,7 @@ _Click on any category jumps to its section._
      <details>
      <summary>Click To Show</summary>
   
+     - Pixel Art Maker
      - Portfolio Website V1
      - FEND-Portfolio
      - FEND-Animal Trading Cards
