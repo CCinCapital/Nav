@@ -17,7 +17,7 @@ _Click on any category jumps to its section._
   - [Back-end](#Back-end)
   - [Mobile App](#Mobile-App)
     - [Flash Cards](https://github.com/CCinCapital/ReactNative-Flashcards/blob/master/README.md)
-    - Android SPS
+    - [Android SPS](https://github.com/CCinCapital/Android-SPS)
   - [Neural Network](#Neural-Network)
   - [Micro Controller](#Micro-Controller)
     - [BlindZer](#BlindZer)
@@ -36,47 +36,6 @@ _Click on any category jumps to its section._
   - [Front-end Web Developer Nanodegree](#nd001)
   - [React Nanodegree](#nd019)
   - [Deep Learning Fundation Nanodegree](#nd101)
-
-
-
-
-## <a name="Projects"></a>Projects
-
-One sentence introduction.
-
-### <a name="Front-end"></a>Front-end
-
-- Portfolio Website V3
-- Portfolio Website V2
-- Portfolio Website V1
-
-- Readable
-- My Fitness
-- My Reads
-
-- Neighborhood Map
-- Unit Testing
-- Pixel Art Maker
-
-- Arcade Game Clone : Cross Road
-- Arcade Game Clone : Flip Flop Match
-
-- FEND-Portfolio
-- FEND-Animal Trading Cards
-
-### <a name="Back-end"></a>Back-end
-
-### <a name="Mobile-App"></a>Mobile APP
-
-- Flash Cards
-- Android SPS
-
-### <a name="Neural-Network"></a>Deep Learning
-### <a name="Micro-Controller"></a>Micro Controller
-### <a name="Archived"></a>Archived
-
-- BlindZer
-- My Icons
 
 ## <a name="Certificates"></a>Certificates
 
