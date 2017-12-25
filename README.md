@@ -32,27 +32,6 @@ _Click on any category jumps to its section._
      - My Icons
      </details>
 
-  
-- #### [Certificates](#Certificates)
-  - [Front-end Web Developer Nanodegree](#nd001)
-  - [React Nanodegree](#nd019)
-  - [Deep Learning Fundation Nanodegree](#nd101)
-
-## <a name="Certificates"></a>Certificates
-
-One sentence introduction.
-
-### <a name="nd001"></a>Front End Web Developer
-6 month
-![certificate](assets/nd001.jpg)
-### <a name="nd019"></a>React
-4 month
-![certificate](assets/nd019.jpg)
-### <a name="nd101"></a>Deep Learning Fundation
-4 month
-![certificate](assets/nd101.jpg)
-
-
 ![React.js](https://img.shields.io/badge/-React.js-blue.svg)
 ![Sass](https://img.shields.io/badge/-Sass-ca538a.svg)
 ![Redux.js](https://img.shields.io/badge/-Redux.js-7947b8.svg)
