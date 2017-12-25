@@ -1,5 +1,5 @@
 # Project Index
-A index of all my open source projects._Click on any project nagivates to its repository._
+A index of all my open source projects. _Click on any project nagivates to its repository._
 
 ## List of Projects
 - Front-end
