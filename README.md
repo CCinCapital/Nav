@@ -14,7 +14,7 @@ A index of all my open source projects. _Click on any project nagivates to its r
 - Back-end
   - _Coming Soon._
 - Mobile App
-  - [Flash Cards](https://github.com/CCinCapital/ReactNative-Flashcards/blob/master/README.md)
+  - [Flash Cards](https://github.com/CCinCapital/ReactNative-Flashcards)
   - [Android SPS](https://github.com/CCinCapital/Android-SPS)
  
 <details>
