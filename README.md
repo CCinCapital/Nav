@@ -19,6 +19,7 @@ A index of all my open source projects._Click on any project nagivates to its re
  
 <details open>
 <summary>Neural Network</summary>
+  
 - [Image Classification](https://ccincapital.github.io/DLND-Image-Classification/)
 - [Bike Sharing Data Analysis & Prediction](https://ccincapital.github.io/DLND-Bike/)
 </details>
