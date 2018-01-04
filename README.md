@@ -3,14 +3,14 @@ A index of all my open source projects. _Click on any project nagivates to its r
 
 ## List of Projects
 - Front-end
-  - [Portfolio Website V3](https://github.com/CCinCapital/PortfolioWebsiteV3)
-  - [Portfolio Website V2](https://github.com/CCinCapital/www.canchen.rocks)
   - [Readable](https://github.com/CCinCapital/React-Readable)
   - [My Reads](https://github.com/CCinCapital/React-MyBooks)
-  - [Neighborhood Map](https://github.com/CCinCapital/FEND-Neighborhood-Map)
-  - [Unit Testing](https://github.com/CCinCapital/FEND-Unit-Test)
   - [Arcade Game Clone : Cross Road](https://github.com/CCinCapital/FEND-arcade-game)
-  - [Arcade Game Clone : Flip Flop Match](https://github.com/CCinCapital/FEND-memory-game)
+  - [Arcade Game Clone : Flip Flop Match](https://github.com/CCinCapital/FEND-memory-game)  
+  - [Neighborhood Map](https://github.com/CCinCapital/FEND-Neighborhood-Map)
+  - [Portfolio Website V3](https://github.com/CCinCapital/PortfolioWebsiteV3)
+  - [Portfolio Website V2](https://github.com/CCinCapital/www.canchen.rocks)
+  - [Unit Testing](https://github.com/CCinCapital/FEND-Unit-Test)
 - Back-end
   - _Coming Soon._
 - Mobile App
